@@ -17,7 +17,7 @@ You can download the code, run .ipynb file and provide dataset directory accordi
 
 ## Dataset
 
-Either you can use dataset from our git hub or you can download dataset from [Kaggle](https://www.kaggle.com/datasets/crowdflower/handwritten-names/data).
+Either you can use dataset from our git hub or you can download dataset from [Kaggle](https://www.kaggle.com/datasets/crowdflower/handwritten-names/data). Also, download npz zip file add it to the same directory as ipynb file then run the code(.ipynb and .npz files should be in same folder).
 
 ## Feature Extraction
 ![Image Alt Text](Process_Feature_extraction.png)
