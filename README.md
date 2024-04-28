@@ -8,7 +8,7 @@ The Handwritten Text Recognition (HTR) project aims to develop a specialized sys
 
 - [Installation](#installation)
 - [Dataset](#dataset)
-- [Feature Extraction](#featureextraction)
+- [Feature Extraction](#feature-extraction)
 - [Results](#results)
 
 ## Installation
