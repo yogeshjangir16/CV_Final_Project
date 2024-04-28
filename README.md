@@ -8,6 +8,7 @@ The Handwritten Text Recognition (HTR) project aims to develop a specialized sys
 
 - [Installation](#installation)
 - [Dataset](#dataset)
+- [Feature Extraction](#featureextraction)
 - [Results](#results)
 
 ## Installation
@@ -17,6 +18,9 @@ You can download the code, run .ipynb file and provide dataset directory accordi
 ## Dataset
 
 Either you can use dataset from our git hub or you can download dataset from [Kaggle](https://www.kaggle.com/datasets/crowdflower/handwritten-names/data).
+
+## Feature Extraction
+![Image Alt Text](Results/HOG.png)
 
 ## Results
 ![Image Alt Text](Results/HOG.png)
