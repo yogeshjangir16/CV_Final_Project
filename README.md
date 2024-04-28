@@ -21,10 +21,11 @@ Either you can use dataset from our git hub or you can download dataset from [Ka
 ## Results
 ![Image Alt Text](Results/HOG.png)
 
+![Image Alt Text](Results/PCA.jpeg)
+
 ![Image Alt Text](Results/HOG+MLP.png)
 
 ![Image Alt Text](Results/PCA+MLP.png)
 
 ![Image Alt Text](Results/Predicted.png)
 
-![Image Alt Text](Results/PCA.jpeg)
