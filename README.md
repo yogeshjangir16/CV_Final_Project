@@ -17,3 +17,6 @@ You can download the code, run .ipynb file and provide dataset directory accordi
 ## Dataset
 
 Either you can use dataset from our git hub or you can download dataset from [Kaggle](https://www.kaggle.com/datasets/crowdflower/handwritten-names/data).
+
+## Results
+![Image Alt Text](Results/HOG.png)
