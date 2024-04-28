@@ -26,3 +26,5 @@ Either you can use dataset from our git hub or you can download dataset from [Ka
 ![Image Alt Text](Results/PCA+MLP.png)
 
 ![Image Alt Text](Results/Predicted.png)
+
+![Image Alt Text](Results/PCA.jpeg)
